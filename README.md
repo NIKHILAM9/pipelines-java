@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/nikhilamanga/Project%20Java/_apis/build/status/NIKHILAM9.pipelines-java?branchName=main)](https://dev.azure.com/nikhilamanga/Project%20Java/_build/latest?definitionId=4&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
